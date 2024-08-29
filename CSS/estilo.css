@@ -1,0 +1,38 @@
+*{ margin: 0px;}
+.nivel1
+{
+    background-color: red;
+    padding: 20px;
+}
+.nivel2
+{
+    background-color: yellow;
+    padding: 20px;
+    margin: 20px;
+}
+.nivel3
+{
+    background-color: chartreuse;
+    padding: 20px;
+}
+.nivel4
+{
+    background-color: aquamarine;
+    padding: 20px;
+}
+.nivel5
+{
+    background-color: indigo;
+    padding: 20px;
+}
+.nivel6
+{
+    background-color: blue;
+    padding: 20px;
+}
+.nivel7
+{
+    background-color: yellowgreen;
+    padding: 10px;
+    text-align: center;
+}
